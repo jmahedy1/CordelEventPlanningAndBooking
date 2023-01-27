@@ -1,6 +1,3 @@
-# CordelEventPlanningAndBooking
-This repo is my dual class (System Analysis &amp; Design and Database Fundamentals) project.
-
 # Usage
 Do not use this project as your own, but you are welcome to reference the code as a learning experience.
 
