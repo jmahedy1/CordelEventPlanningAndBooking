@@ -1,5 +1,5 @@
 # Usage
-Do not plagiarize these labs and assignments. You are welcome to reference the code for learning and academic purposes.
+Do not plagiarize this material, but you are welcome to reference the code for learning purposes.
 
 # Description
 This project was worked on throughout the semester. Two classes (System Analysis & Design/Database Fundamentals) shared a case study and the same 4 person group is used. 
